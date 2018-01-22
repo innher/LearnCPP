@@ -1,3 +1,2 @@
-﻿D:\Applications\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(day2_addr_cname.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  main2.cpp
-  day2_addr_cname.vcxproj -> D:\GitHub\LearnCPP\day2_addr_cname\Debug\day2_cname.exe
+﻿D:\Applications\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(day2_addr_cname.vcxproj, day2_cname.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  day2_addr_cname.vcxproj -> C:\Users\innhe\Documents\GitHub\LearnCPP\day2_addr_cname\Debug\day2_reference.exe
